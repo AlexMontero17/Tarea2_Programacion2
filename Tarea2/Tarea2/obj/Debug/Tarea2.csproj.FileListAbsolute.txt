@@ -1,0 +1,8 @@
+C:\Users\alexm\OneDrive\Desktop\Programación 2\Tareas\Tarea2_Programacion2\Tarea2\Tarea2\bin\Debug\Tarea2.exe.config
+C:\Users\alexm\OneDrive\Desktop\Programación 2\Tareas\Tarea2_Programacion2\Tarea2\Tarea2\bin\Debug\Tarea2.exe
+C:\Users\alexm\OneDrive\Desktop\Programación 2\Tareas\Tarea2_Programacion2\Tarea2\Tarea2\bin\Debug\Tarea2.pdb
+C:\Users\alexm\OneDrive\Desktop\Programación 2\Tareas\Tarea2_Programacion2\Tarea2\Tarea2\obj\Debug\Tarea2.csproj.AssemblyReference.cache
+C:\Users\alexm\OneDrive\Desktop\Programación 2\Tareas\Tarea2_Programacion2\Tarea2\Tarea2\obj\Debug\Tarea2.csproj.SuggestedBindingRedirects.cache
+C:\Users\alexm\OneDrive\Desktop\Programación 2\Tareas\Tarea2_Programacion2\Tarea2\Tarea2\obj\Debug\Tarea2.csproj.CoreCompileInputs.cache
+C:\Users\alexm\OneDrive\Desktop\Programación 2\Tareas\Tarea2_Programacion2\Tarea2\Tarea2\obj\Debug\Tarea2.exe
+C:\Users\alexm\OneDrive\Desktop\Programación 2\Tareas\Tarea2_Programacion2\Tarea2\Tarea2\obj\Debug\Tarea2.pdb
